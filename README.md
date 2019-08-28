@@ -1,1 +1,7 @@
-# to-do-list
+# To-Do List
+
+A web application where you can create a to-do list
+
+# What I learned
+
+- JavaScript HTML DOM Events
