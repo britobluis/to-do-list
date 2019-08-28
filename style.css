@@ -1,0 +1,16 @@
+html {
+  text-align: center;
+}
+h1 {
+  font-weight: bold;
+  font-size: 3rem;
+}
+input, button, ol {
+  margin-top: 20px;
+}
+ol {
+  list-style: none;
+}
+.rem {
+  margin-left: 20px;
+}
